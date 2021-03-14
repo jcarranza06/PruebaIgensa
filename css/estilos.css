@@ -1,0 +1,60 @@
+* {
+	font-family: 'Shippori Mincho B1', serif;
+}
+#footer {
+	color: #D3D0D1;
+}
+#nav {
+	justify-content: center;
+	opacity: 60%;
+	font-family: 'Lato', sans-serif;
+}
+#titulo {
+	font-family: 'Lato', sans-serif;
+}
+#textoimg {
+	justify-content: center;
+	color: white;
+	text-align: center;
+}
+#consultenos {
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 400%;
+}	
+#a1 {
+	font-family: 'Lato', sans-serif;
+}
+#navbarNavDropdown {
+	font-family: 'Lato', sans-serif;
+}
+.nav-link {
+	font-family: 'Lato', sans-serif;
+}
+#rojo {
+	color: red;
+}
+#imgform {
+	
+}
+// X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { 
+.visible-sm {
+
+}
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... }
